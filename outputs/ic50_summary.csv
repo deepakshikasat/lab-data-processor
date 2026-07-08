@@ -1,0 +1,3 @@
+compound,estimated_ic50_uM,top_response,bottom_response,n_doses
+CMP_A,3.704,0.9929666666666667,0.1409,8
+CMP_B,11.111,1.0134333333333334,0.2118,8
